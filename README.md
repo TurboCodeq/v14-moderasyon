@@ -1,1 +1,1 @@
-# v14-moderasyon
+Terminali Açıp npm i yazmanız yeterlidir
